@@ -137,7 +137,7 @@ html, body{
 #page3-upper{
     height: 30%;
     width: 35%;
-    background-color: green;
+    background-color: blue;
     z-index: 9;
     left: 50%;
     position: absolute;
